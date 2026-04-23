@@ -14,3 +14,5 @@ An internal tool for WSO2 employees to request time off and for managers to revi
 - Everyone can view their remaining leave balance for each type.
 - Employees see the status of their submitted requests.
 - Managers can view their team's upcoming approved leave on a calendar.
+- Leave notifications
+
